@@ -1,0 +1,25 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(217, 231, 195);
+}
+
+#root{
+    width: 700px;
+    height: 200px;
+    padding: 20px 10px;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+      word-break: break-all;
+
+    
+}
+.second{
+    font-size: 20px;
+}
